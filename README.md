@@ -92,7 +92,7 @@ We are a growing team of passionate individuals dedicated to helping businesses 
 🌐 Visit our website: [kemmy.org](https://kemmy.org)  
 🔗 Follow us on LinkedIn: [The House of Kemmy](https://www.linkedin.com/company/thehouseofkemmy)  
 📞 Call us: +250 734 368 805  
-📧 Email us: (Add an email address here if you want)  
+📧 Email us: dev@kemmy.org  
 
 ---
 
